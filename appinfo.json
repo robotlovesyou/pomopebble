@@ -1,8 +1,8 @@
 {
     "appKeys": {},
     "capabilities": [],
-    "companyName": "Lucas Conceicao",
-    "longName": "POMO D'ORO",
+    "companyName": "Robot Loves You LTD",
+    "longName": "No Pomodoro",
     "projectType": "native",
     "resources": {
         "media": [
@@ -29,11 +29,11 @@
         ]
     },
     "sdkVersion": "3",
-    "shortName": "POMO D'ORO",
+    "shortName": "NoPomo",
     "targetPlatforms": [
         "basalt"
     ],
-    "uuid": "35435a03-e97a-4ac9-a70f-758423463da3",
+    "uuid": "c2869ef0-af13-11e5-8ca7-5d49e028718a",
     "versionLabel": "1.2",
     "watchapp": {
         "watchface": false
